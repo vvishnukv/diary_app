@@ -75,6 +75,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For more information, check out the [official Flutter documentation](https://docs.flutter.dev/).
 
-```
-
 
