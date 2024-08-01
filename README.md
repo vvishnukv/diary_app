@@ -28,7 +28,7 @@ To get started with this project, you'll need to set up Flutter on your local ma
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/diary_app.git
+git clone https://github.com/vvishnukv/diary_app.git
 cd diary_app
 ```
 
@@ -77,4 +77,4 @@ For more information, check out the [official Flutter documentation](https://doc
 
 ```
 
-Replace `https://github.com/yourusername/diary_app.git` with the actual URL of your GitHub repository. You can also customize or add more sections based on your project needs.
+
